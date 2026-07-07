@@ -143,7 +143,7 @@ export default function LessonPlayerPage() {
                         The principle of quantum superposition states that if a physical system may be in one of many configurations—arrangements of particles or fields—then the most general state is a combination of all of these possibilities.
                       </p>
                       <p className="text-slate-300">
-                        A fundamental concept in quantum mechanics, superposition is the basis for quantum computing's parallel processing capabilities.
+                        A fundamental concept in quantum mechanics, superposition is the basis for quantum computing&apos;s parallel processing capabilities.
                       </p>
                     </div>
                   </motion.div>
@@ -157,7 +157,7 @@ export default function LessonPlayerPage() {
                           <Trophy className="h-8 w-8" />
                         </div>
                         <h2 className="text-2xl font-bold text-white mb-2">Knowledge Check</h2>
-                        <p className="text-slate-400 max-w-md mx-auto mb-8">Test your understanding of superposition. You need 80% to earn the "Quantum Observer" badge.</p>
+                        <p className="text-slate-400 max-w-md mx-auto mb-8">Test your understanding of superposition. You need 80% to earn the &quot;Quantum Observer&quot; badge.</p>
                         
                         <div className="flex justify-center gap-8 mb-8 text-sm text-slate-300">
                           <span className="flex items-center gap-2"><List className="h-4 w-4 text-cyan-400" /> 5 Questions</span>
@@ -227,7 +227,7 @@ export default function LessonPlayerPage() {
                             <Medal className="h-6 w-6 text-emerald-400 shrink-0 mt-0.5" />
                             <div>
                               <h4 className="text-emerald-400 font-semibold mb-1">Correct! You earned +50 XP</h4>
-                              <p className="text-sm text-slate-300">Observation forces the quantum system to "choose" a single state, destroying the interference pattern.</p>
+                              <p className="text-sm text-slate-300">Observation forces the quantum system to &quot;choose&quot; a single state, destroying the interference pattern.</p>
                               <div className="mt-4 flex gap-3">
                                 <button className="rounded-lg bg-emerald-500 px-4 py-2 text-sm font-semibold text-emerald-950 hover:bg-emerald-400">Next Question</button>
                                 <button onClick={() => { setQuizSubmitted(false); setSelectedAnswer(null); setQuizStarted(false); }} className="rounded-lg border border-white/10 bg-white/5 px-4 py-2 text-sm text-white hover:bg-white/10 flex items-center gap-2"><RotateCcw className="h-4 w-4"/> Retry Quiz</button>

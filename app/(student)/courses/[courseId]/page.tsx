@@ -19,6 +19,7 @@ import {
   Users,
 } from 'lucide-react'
 import { useState } from 'react'
+import Link from 'next/link'
 
 import { cn } from '@/lib/utils'
 import { PublicNavbar } from '@/components/navbar/PublicNavbar'

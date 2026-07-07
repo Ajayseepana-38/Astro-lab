@@ -302,7 +302,7 @@ export default function LandingPage() {
               Ready to decode the universe?
             </h2>
             <p className="mx-auto mt-6 max-w-2xl text-lg text-slate-300">
-              Join thousands of learners mastering the complexities of science through Astro Lab's premium ecosystem.
+              Join thousands of learners mastering the complexities of science through Astro Lab&apos;s premium ecosystem.
             </p>
             <div className="mt-10 flex flex-col items-center justify-center gap-4 sm:flex-row">
               <Link

@@ -47,7 +47,7 @@ export default function StudentDashboardPage() {
               Welcome back, Mina.
             </h1>
             <p className="max-w-2xl text-slate-300">
-              "The universe is under no obligation to make sense to you." — Neil deGrasse Tyson. 
+              &quot;The universe is under no obligation to make sense to you.&quot; — Neil deGrasse Tyson. 
               <br/> Ready to decode it today?
             </p>
           </div>
