@@ -343,6 +343,7 @@ export default function CheckoutPage() {
             </AnimatePresence>
           </section>
         </div>
+        </div>
       </main>
       <PublicFooter />
     </div>
